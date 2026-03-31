@@ -1,0 +1,2 @@
+# LuckyNumber
+BaseLuckyNumber.sol
